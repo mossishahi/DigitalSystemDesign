@@ -1,0 +1,5 @@
+work	"alu16b.vhd"
+work	"controller_unit.vhd"
+work	"mem4k.vhd"
+work	"reg16b.vhd"
+work	"top_module.vhd"

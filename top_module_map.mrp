@@ -1,0 +1,29 @@
+Release 14.7 Map P.20131013 (nt64)
+Xilinx Mapping Report File for Design 'top_module'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xc6slx9-csg324-3 -w -logic_opt off -ol
+high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off
+-pr off -lc off -power off -o top_module_map.ncd top_module.ngd top_module.pcf 
+Target Device  : xc6slx9
+Target Package : csg324
+Target Speed   : -3
+Mapper Version : spartan6 -- $Revision: 1.55 $
+Mapped Date    : Wed May 09 22:18:22 2018
+
+Design Summary
+--------------
+Number of errors   :   2
+Number of warnings :   0
+
+Section 1 - Errors
+------------------
+ERROR:Map:116 - The design is empty.  No processing will be done.
+ERROR:Map:52 - Problem encountered processing RPMs. 
+
+Section 2 - Warnings
+--------------------
+
+Section 3 - Informational
+-------------------------

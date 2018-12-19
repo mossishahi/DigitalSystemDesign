@@ -1,0 +1,6 @@
+vhdl work "reg16b.vhd"
+vhdl work "mem4k.vhd"
+vhdl work "controller_unit.vhd"
+vhdl work "alu16b.vhd"
+vhdl work "top_module.vhd"
+vhdl work "proc_tb.vhd"

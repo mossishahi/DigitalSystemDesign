@@ -1,0 +1,5 @@
+vhdl isim_temp "reg16b.vhd"
+vhdl isim_temp "mem4k.vhd"
+vhdl isim_temp "controller_unit.vhd"
+vhdl isim_temp "alu16b.vhd"
+vhdl isim_temp "top_module.vhd"
